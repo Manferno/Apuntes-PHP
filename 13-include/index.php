@@ -1,6 +1,7 @@
 
 
 <?php include 'include/cabecera.php'; ?>
+
 //UTILIZAR REQUIRE_ONCE ES MAS SEGURO
         <!--Contenido-->
         <div class="contenido">
@@ -10,3 +11,4 @@
         </div>
         
 <?php include 'include/footer.php'; ?>
+<?php //Esto es una nota sin relevancia. ?>
